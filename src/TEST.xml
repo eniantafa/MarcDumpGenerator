@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+
+
+<record>
+
+  <ib> isbn </ib>
+
+  <in>issn</in>
+
+  <di> input date</di>
+
+   
+   <ju> date of publication </ju>
+
+    <TA> language code!</TA>
+
+  
+
+  <ti>title</ti>
+
+    <lw> lead word</lw>
+
+  <ed> edition</ed>
+
+
+
+  <pl>place of publication</pl>
+
+    <ui> publisher</ui>
+  <pa>pagination</pa>
+
+    <il> ilustration</il>
+
+    <fo> dimensions</fo>
+
+    <bm> accompaign material</bm>
+
+  <re>series</re>
+    <rn> </rn>
+
+  <an>notes</an>
+
+<sa> abstract</sa>
+
+
+    <tr> subject term</tr>
+
+    <cc> class number</cc>
+    <au> author</au>
+    <ca> coorporate author</ca>
+</record>
+
+
+
+
+    <record>
+
+        <ib>111 isbn </ib>
+
+        <in>i1111ssn</in>
+
+        <di> 111111input date</di>
+
+
+        <ju> 1111date of publication </ju>
+
+        <TA> 11111language code!</TA>
+
+
+
+        <ti>11111title</ti>
+
+        <lw> 111lead word</lw>
+
+        <ed> 111111edition</ed>
+
+
+
+        <pl>11111place of publication</pl>
+
+        <ui>11111 publisher</ui>
+        <pa>111111pagination</pa>
+
+        <il> 111111ilustration</il>
+
+        <fo>1111111 dimensions</fo>
+
+        <bm>11111 accompaign material</bm>
+
+        <re>111111series</re>
+        <rn>1111 </rn>
+
+        <an>1111notes</an>
+
+        <sa> 1111111abstract</sa>
+
+
+        <tr>111111 subject term</tr>
+
+        <cc> 11111class number</cc>
+        <au>111111 author</au>
+        <ca> 111111coorporate author</ca>
+    </record>
+
+
+
+
+    <record>
+
+        <ib> 22222isbn </ib>
+
+        <in>22222issn</in>
+
+        <di> 22222input date</di>
+
+
+        <ju> 22222date of publication </ju>
+
+        <TA> 222222language code!</TA>
+
+
+
+        <ti>22222title</ti>
+
+        <lw> 222222lead word</lw>
+
+        <ed>2222222 edition</ed>
+
+
+
+        <pl>2222222place of publication</pl>
+
+        <ui>2222222 publisher</ui>
+        <pa>222222pagination</pa>
+
+        <il>2222222 ilustration</il>
+
+        <fo> 2222222dimensions</fo>
+
+        <bm> 22222222accompaign material</bm>
+
+        <re>22222222series</re>
+        <rn>222222 </rn>
+
+        <an>222222notes</an>
+
+        <sa>222222 abstract</sa>
+
+
+        <tr> 22222222subject term</tr>
+
+        <cc>2222222 class number</cc>
+        <au> 2222222author</au>
+        <ca>2222222 coorporate author</ca>
+    </record>
+
+</records>
