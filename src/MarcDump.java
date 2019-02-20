@@ -72,7 +72,7 @@ public class MarcDump {
         UDC(marcRecord);
 
 
-      // PersonalName(marcRecord);
+       PersonalName(marcRecord);
 
 
        CorporateBodyName(marcRecord);
@@ -559,21 +559,22 @@ ReadXML readXML=new ReadXML();
         i=1;
 
         tag="701";
-        while(i<=marcRecord.mau){
 
+if (marcRecord.au.contains("'")){
 
-            int index = marcRecord.au.indexOf(",",1);
-            int endindex= marcRecord.au.length();
+            int index = marcRecord.au.indexOf(",");
+            int endindex= marcRecord.mau;
         buffer= "#1\u001Fa" +marcRecord.au.substring(0,index);
 
-            marcRecord.au.substring(index,endindex);
 
             String str = marcRecord.au.substring(index,endindex);
         buffer=buffer+ "\u001Fb" +str.trim();
         i=i+1;
         UpdateDirectory();
+}
+
         }
-        }
+
 
 
 
